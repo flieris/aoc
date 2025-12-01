@@ -1,2 +1,2 @@
-# aoc_2024
-My solutions for Advent of Code 2024
+# aoc
+My solutions for Advent of Code
